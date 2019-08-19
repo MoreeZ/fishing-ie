@@ -1,0 +1,63 @@
+.your-locations-page {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  align-items: center;
+}
+
+.your-location-header {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-size: 40px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.each-your-location {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 60px;
+  background-color: white;
+  border: #e1e1e1 1px solid;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.your-location-name {
+  flex: 1;
+  font-size: 20px;
+  color: #1d1d1d;
+}
+
+.each-your-location a {
+  color: #474747;
+  text-decoration: none;
+}
+
+.your-location-view {
+  margin-right: 40px;
+}
+
+.your-location-view,
+.your-location-delete {
+  font-size: 20px;
+  font-family: "Roboto Light";
+  cursor: pointer;
+  user-select: none;
+}
+
+.your-location-delete {
+  margin-right: 20px;
+  color: #ed344e;
+}
+
+.your-location-view:hover,
+.your-location-delete:hover {
+  text-decoration: underline;
+}
+
+.no-locations-msg {
+  width: 100%;
+}

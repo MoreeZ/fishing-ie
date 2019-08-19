@@ -1,0 +1,253 @@
+.home-page {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  align-items: center;
+}
+.home-top {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+  position: relative;
+  height: 300px;
+}
+.home-top img {
+  width: auto;
+  height: 100%;
+}
+
+.home-top-text {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  justify-content: space-evenly;
+}
+/*  */
+.home-heading {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  opacity: 0;
+}
+
+.home-top-text a {
+  text-decoration: none;
+}
+/*  */
+.home-button {
+  width: 170px;
+  height: 50px;
+  border: white 2px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 21px;
+  color: white;
+  cursor: pointer;
+  transition: all ease-in-out 200ms;
+  user-select: none;
+  opacity: 0;
+}
+.home-button:hover {
+  background-color: white;
+  color: #1d1d1d;
+}
+
+.home-middle {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 260px;
+  justify-content: space-evenly;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  /* background-color: saddlebrown; */
+}
+
+.welcome {
+  display: flex;
+  align-items: flex-end;
+}
+
+.welcome span {
+  font-size: 34px;
+  color: #1f1f1f;
+  margin-right: 10px;
+  padding-bottom: 1px;
+}
+
+.welcome img {
+  height: 38px;
+}
+
+.welcome-subheading {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: #3d3d3d;
+  font-size: 16px;
+}
+
+.home-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.top-rated-header {
+  font-size: 30px;
+  color: #1b1b1b;
+  font-family: "Roboto Medium";
+  margin-bottom: 30px;
+  text-align: center;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.top-rated-render-space {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 460px;
+  grid-gap: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 880px) {
+  .home-top {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    position: relative;
+    height: auto;
+  }
+  .home-top img {
+    width: 100%;
+    height: auto;
+  }
+
+  .home-top-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    justify-content: space-evenly;
+  }
+
+  .home-heading {
+    font-size: 60px;
+  }
+
+  .home-button {
+    width: 200px;
+    height: 60px;
+    border: white 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+    cursor: pointer;
+    /* transition: all ease-in-out 200ms; */
+    user-select: none;
+  }
+  .home-button:hover {
+    background-color: white;
+    color: #1d1d1d;
+  }
+
+  .home-middle {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 260px;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    /* background-color: saddlebrown; */
+  }
+
+  .welcome {
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .welcome span {
+    font-size: 50px;
+    color: #1f1f1f;
+    margin-right: 10px;
+    padding-bottom: 5px;
+  }
+
+  .welcome img {
+    height: auto;
+  }
+
+  .home-bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .top-rated-header {
+    font-size: 38px;
+    color: #1b1b1b;
+    font-family: "Roboto Medium";
+    margin-bottom: 30px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .welcome-subheading {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #2c2c2c;
+    font-size: 18px;
+  }
+
+  .top-rated-render-space {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 460px;
+    grid-gap: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (min-width: 1330px) {
+  .home-heading {
+    font-size: 80px;
+  }
+
+  .welcome-subheading {
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: #2c2c2c;
+    font-size: 18px;
+  }
+
+  .top-rated-render-space {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 460px;
+    grid-gap: 40px;
+  }
+}

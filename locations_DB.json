@@ -1,0 +1,215 @@
+{
+  "locations": [
+    {
+      "id": "65f818c4626b",
+      "name": "Strabane",
+      "quickdesc": "If you visit Strabane for fishing, you will get four great rivers to explore. From here you would get the chance to catch brown trout, sea trout, grilse, and salmon.",
+      "longdesc": "If you visit Strabane for fishing, you will get four great rivers to explore, and these are the River Mourne, River Finn, the River Row and the River Faughan. From here you would get the chance to catch brown trout, sea trout, grilse, and salmon.",
+      "coordinates": {
+        "lat": 54.826115,
+        "lng": -7.462799
+      },
+      "image": "",
+      "fish": ["brown trout", "sea trout", "grilse", "salmon"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "701ceda25077",
+      "name": "Donegal Bay",
+      "quickdesc": "Donegal would be a good place for anglers to enjoy catching fish varieties like Pollock, wrasse, pouting, conger, ling, cod, ray, stake, monk.",
+      "longdesc": "Donegal would be a good place for anglers to enjoy catching fish varieties like Pollock, wrasse, pouting, conger, ling, cod, ray, stake, monk as well as big bluefin tuna. This place would also be ideal for hunting blue sharks.",
+      "coordinates": {
+        "lat": 54.4871421,
+        "lng": -8.4749019
+      },
+      "image": "",
+      "fish": [
+        "Pollock",
+        "wrasse",
+        "pouting",
+        "ling",
+        "cod",
+        "ray",
+        "stake",
+        "monk",
+        "big bluefin tuna",
+        "blue sharks"
+      ],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "b28a74071c79",
+      "name": "Waterville",
+      "quickdesc": "The area of Waterville possibly provides an outstanding opportunity for fly fishing. You would also be able to hunt bass around Ring of Kerry.",
+      "longdesc": "The area at the Coomcalle Mountains’ foot in southwestern Ireland possibly provides an outstanding opportunity for fly fishing. If you are visiting Waterville, you would be able to experience a wholesome fishing day by catching brown trout, sea trout along with salmon in abundant lakes and rivers. You would also be able to hunt bass around Ring of Kerry. If you are not so sure about how to catch speckled Bass, then you can learn everything here. Bass fishing is really great in Ring of Kerry and it would be a good idea to learn more about catching Bass fishes.",
+      "coordinates": {
+        "lat": 51.825,
+        "lng": -10.167400000000043
+      },
+      "image": "",
+      "fish": ["Bass", "brown trout", "sea trout", "salmon"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "c353c2046aaa",
+      "name": "Delphi",
+      "quickdesc": "Delphi is that place in Ireland which is popular for its dazzling scenery as well as light. Apart from this, this place is even well known for fishing waters.",
+      "longdesc": "Delphi is that place in Ireland which is popular for its dazzling scenery as well as light. Apart from this, this place is even well known for fishing waters. If you are visiting this place, you would be able to catch great numbers and sizes of salmon.",
+      "coordinates": {
+        "lat": 53.6236,
+        "lng": -9.752920000000017
+      },
+      "image": "",
+      "fish": ["salmon", " big salmon", " bigger salmon"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "3f8fb5e3cfa3",
+      "name": "Lough Muckno",
+      "quickdesc": "If you want to visit this place, you will get a good variation of angling. Lough Muckno is surrounded by many small lakes like Smith’s Lake and Gas Lake.",
+      "longdesc": "If you want to visit this place, you will get a good variation of angling. Lough Muckno is surrounded by many small lakes like Smith’s Lake, Gas Lake, Killygola and Malone Lake. Lough Muckno houses abundant fishes such as rudd, bream, tench, roach, pike, hybrids and perch.",
+      "coordinates": {
+        "lat": 54.25,
+        "lng": -6.966670000000022
+      },
+      "image": "",
+      "fish": ["rudd", "bream", "tench", "roach", "pike", "hybrids", "perch"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "d85dcb4c2bba",
+      "name": "Rye Water",
+      "quickdesc": "River Rye is located at a distance of few minutes from Dublin City. The river can be said to be a secret spectacular spot that is the house of sufficient numbers of pike.",
+      "longdesc": "River Rye is located at a distance of few minutes from Dublin City. The river can be said to be a secret spectacular spot that is the house of sufficient numbers of pike and trout.",
+      "coordinates": {
+        "lat": 53.3933092,
+        "lng": -6.6321426
+      },
+      "image": "",
+      "fish": ["pike", "trout"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "43b627c5247d",
+      "name": "Screebe House",
+      "quickdesc": "At Screeve Houuse you can enjoy fishing in its local waters which are well known for the stocks of brown trout, sea trout, and salmon. ",
+      "longdesc": "Screebe House is the Victorian lodge of fishing which is situated on the coast of Atlantic in Connemara. You would be able to enjoy fishing in its local waters which are well known for the stocks of brown trout, sea trout, and salmon. Moreover, the domain includes sporting rights of about 40,000 acres.",
+      "coordinates": {
+        "lat": 53.383949,
+        "lng": -9.5589107
+      },
+      "image": "",
+      "fish": ["brown trout", "sea trout", "salmon"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "4a43c108a210",
+      "name": "Lagan River",
+      "quickdesc": "Lagan River is situated in the upstream stretch starting from Stranmillis Weir, located in Belfast Boat Club to Shaw’s Bridge.",
+      "longdesc": "Lagan River is situated in the upstream stretch starting from Stranmillis Weir, located in Belfast Boat Club to Shaw’s Bridge. You would be able to practice fishing only from towpath on the western side of the river. If you are fishing in this place, you would be able to catch good numbers of pike, perch, gudgeon, Rudd, and Roach along with some amount of bream.",
+      "coordinates": {
+        "lat": 54.7198722,
+        "lng": -6.2434379
+      },
+      "image": "",
+      "fish": ["gudgeon", "Rudd", "Roach", "bream", "perch", "pike"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "c23782e547be",
+      "name": "Lough Corrib",
+      "quickdesc": " People from all over the world come to visit this place to enjoy fishing in their most-liked lakes and rivers in Connemara. This spot is popular for salmon and trout fishing.",
+      "longdesc": "This place has rivers and lakes that form major attractions for anglers. People from all over the world come to visit this place to enjoy fishing in their most-liked lakes and rivers in Connemara. However, this spot is popular for salmon and trout fishing.",
+      "coordinates": {
+        "lat": 53.4254401,
+        "lng": -9.4286186
+      },
+      "image": "",
+      "fish": ["salmon", "trout"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    },
+    {
+      "id": "5d23c1340f8c",
+      "name": "Rosses Point",
+      "quickdesc": "The place provides the opportunity of marvellous shore fishing in the deep waters along the sand and muddy beaches.",
+      "longdesc": "If you want to fish in a spectacular area in Ireland, Rosses Point could be a good option for it. The place provides the opportunity of marvellous shore fishing in the deep waters along the sand and muddy beaches. If you are visiting this site, you would be able to catch fishes such as mackerel, Pollack, and Coalfish. During winter, you could get the scope of catching codling in slack water away from deep marks. And in summer, the Ray, Dogfish and the mandatory Tope could be found on the sandy marks.",
+      "coordinates": {
+        "lat": 54.3006937,
+        "lng": -8.5883158
+      },
+      "image": "",
+      "fish": ["mackerel", "Pollock", "Coalfish"],
+      "facilities": [
+        "parking",
+        "accommodation",
+        "bar",
+        "food",
+        "toilets",
+        "showers"
+      ]
+    }
+  ]
+}
